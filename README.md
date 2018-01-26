@@ -6,6 +6,7 @@ A single page quiz application built using React JS
 - React JS with ES6
 - Bootstrap 4
 - Webpack
+- babel
 
 
 ### Features
