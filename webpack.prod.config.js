@@ -13,7 +13,9 @@ module.exports = {
       exclude: /node_modules/
     }],
     resolveLoader: {
-      root: path.join(__dirname, 'node_modules')
+      modulesDirectories: [
+          '/node_modules'
+      ]
     }
   }
 }
