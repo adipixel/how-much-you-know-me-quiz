@@ -1,0 +1,21 @@
+{
+  "name": "how-much-you-know-me",
+  "version": "1.0.0",
+  "description": "A fun quiz application",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "webpack-dev-server": "^2.11.1"
+  },
+  "devDependencies": {
+    "babel-core": "5.8.*",
+    "babel-loader": "5.3.*",
+    "webpack": "1.12.*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Mhamunkar",
+  "license": "ISC"
+}
