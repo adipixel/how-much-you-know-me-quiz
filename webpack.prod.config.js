@@ -11,11 +11,6 @@ module.exports = {
       test: /\.jsx?$/,
       loader: 'babel-loader',
       exclude: /node_modules/
-    }],
-    resolveLoader: {
-      modulesDirectories: [
-          '/node_modules'
-      ]
-    }
+    }]
   }
 }
