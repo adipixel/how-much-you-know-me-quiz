@@ -12,5 +12,8 @@ module.exports = {
       loader: 'babel-loader',
       exclude: /node_modules/
     }]
+    resolveLoader: {
+      root: path.join(__dirname, 'node_modules')
+    }
   }
 }
